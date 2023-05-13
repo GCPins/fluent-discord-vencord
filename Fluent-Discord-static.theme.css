@@ -7400,6 +7400,12 @@ html[lang^=en-].theme-dark .wrapper-2vIMkT .button-3bklZh[aria-label="View Raw (
 html[lang^=en-].theme-dark .wrapper-2vIMkT .button-3bklZh[aria-label=Translate]::before {
   content: "\f2b7";
 }
+html[lang^=en-].theme-dark .wrapper-2vIMkT .button-3bklZh[aria-label="Report Review"]::before {
+  content: "\e730";
+}
+html[lang^=en-].theme-dark .wrapper-2vIMkT .button-3bklZh[aria-label="Delete Review"]::before {
+  content: "\e74d";
+}
 html[lang^=en-].theme-dark .wrapper-2vIMkT .button-3bklZh[aria-label="Quick Mention"]::before {
   content: "\eda4";
 }
