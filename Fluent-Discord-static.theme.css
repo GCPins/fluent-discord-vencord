@@ -7381,6 +7381,9 @@ html[lang^=en-].theme-dark .wrapper-1gVUIN .controlSection-1mNixL .button-ejjZWC
 html[lang^=en-].theme-dark .wrapper-1gVUIN .controlSection-1mNixL .button-ejjZWC[aria-label="Pop Out"]::before {
   content: "\e17c";
 }
+html[lang^=en-].theme-dark .wrapper-1gVUIN .controlSection-1mNixL .button-ejjZWC[aria-label="Control volume"]::before {
+  content: "\e767";
+}
 html[lang^=en-].theme-dark .wrapper-1gVUIN .controlSection-1mNixL .button-ejjZWC[aria-label="Full Screen"]::before {
   content: "\e1d9";
 }
