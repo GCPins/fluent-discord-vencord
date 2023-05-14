@@ -7538,6 +7538,9 @@ html[lang^=en-].theme-dark .toolbar-3_r2xA .eventsButton-25vYOY[aria-label="Crea
 html[lang^=en-].theme-dark .toolbar-3_r2xA .button-ejjZWC[aria-label=Focus]::before, html[lang^=en-].theme-dark .toolbar-3_r2xA .button-ejjZWC[aria-label=Grid]::before {
   content: "\eca5";
 }
+html[lang^=en-].theme-dark .toolbar-3_r2xA .button-ejjZWC[aria-label="Search users and channels"]::before, html[lang^=en-].theme-dark .toolbar-3_r2xA .button-ejjZWC[aria-label=Grid]::before {
+  content: "\e773";
+}
 html[lang^=en-].theme-dark .toolbar-3_r2xA .button-ejjZWC[aria-label=More]::before {
   content: "\e712";
 }
