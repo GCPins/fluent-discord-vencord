@@ -7393,12 +7393,14 @@ html[lang^=en-].theme-dark .wrapper-1gVUIN .controlSection-1mNixL .button-ejjZWC
 html[lang^=en-].theme-dark .wrapper-1gVUIN .controlSection-1mNixL .button-ejjZWC[aria-label^=Return]::before {
   content: "\f71a";
 }
-
 html[lang^=en-].theme-dark .wrapper-2vIMkT .button-3bklZh[aria-label=Reply]::before {
   content: "\e97a";
 }
 html[lang^=en-].theme-dark .wrapper-2vIMkT .button-3bklZh[aria-label="View Raw (Left Click) / Copy Raw (Right Click)"]::before {
   content: "\ea90";
+}
+html[lang^=en-].theme-dark .wrapper-2vIMkT .button-3bklZh[aria-label="Decrypt Message"]::before {
+  content: "\e785";
 }
 html[lang^=en-].theme-dark .wrapper-2vIMkT .button-3bklZh[aria-label=Translate]::before {
   content: "\f2b7";
